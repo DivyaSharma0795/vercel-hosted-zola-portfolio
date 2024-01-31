@@ -2,7 +2,7 @@
 title = "SRM University"
 
 [extra]
-image = "../SRM.jpeg"
+image = "../SRM.png"
 link = "https://www.srmist.edu.in/"
 +++
 
