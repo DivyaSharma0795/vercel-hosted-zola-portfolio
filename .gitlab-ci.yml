@@ -1,0 +1,10 @@
+image: "registry.gitlab.com/zola/zola:latest"
+
+pages:
+  script:
+  - zola build
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
