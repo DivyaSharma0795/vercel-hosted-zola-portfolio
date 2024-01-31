@@ -1,5 +1,5 @@
 +++
-title = "Place of Education"
+title = "Places of Education"
 template = "education.html"
 
 

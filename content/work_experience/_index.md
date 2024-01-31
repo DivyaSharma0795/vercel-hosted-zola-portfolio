@@ -1,6 +1,6 @@
 +++
 title = "Work Experience"
-template = "projects.html"
+template = "Work Experience.html"
 [extra]
 author = "Divya"
 

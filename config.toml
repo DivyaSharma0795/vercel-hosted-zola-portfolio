@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "http://divyasharma0795/gitlab.io/MP01/"
-title = "Hephaestus Theme"
+title = "Divya Sharma Profile"
 theme = "hephaestus"
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -12,7 +12,7 @@ build_search_index = false
 [extra]
 bundled = "true"
 author = "Divya Sharma"
-about = "About Divya"
+about = "Data Science Graduate Student at Duke University"
 
 menu = [
 { text = "Home", link = "/" },
@@ -25,5 +25,8 @@ menu = [
 
 
 social = [
-{ user = "divya.sharma@duke.edu", link = "mailto:divya.sharma@duke.edu", icon = "mail-outline"},
+  { user = " divya.sharma@duke.edu", link = "mailto:divya.sharma@duke.edu", icon = "mail-outline"},
+  { user = " DivyaSharma0795", link = "https://github.com/divyasharma0795", icon = "logo-github"},
+  { user = " DivyaSharma0795", link = "https://www.linkedin.com/in/divyasharma0795", icon = "logo-linkedin"},
+  { user = " DivyaSharma0795", link = "https://leetcode.com/divyasharma0795", icon = "code-slash-outline"}
 ]

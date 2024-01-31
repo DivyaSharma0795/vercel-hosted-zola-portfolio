@@ -1,10 +1,9 @@
 +++
-title = "Example Project"
+title = "Stock Analysis"
 
 [extra]
-image = "https://midwestaudiology.net/wp-content/uploads/2018/12/placeholder.png"
-link = "https://www.example.com"
-technologies = ["tags", "are", "very", "cool"]
+link = "https://github.com/nogibjj/Final_Project_Stock_Analysis"
+technologies = ["Data Engineering", "Cloud Computing", "Azure", "Docker"]
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere tortor velit, vitae fermentum odio lacinia at. Quisque dictum neque ut lobortis laoreet. Nam porta mauris vel leo finibus pulvinar. Ut iaculis ipsum sed vulputate consequat. Donec sed lorem a massa venenatis tempus eget sit amet nunc. Vivamus commodo justo. 
+Deployed a data-driven web app providing customizable, real-time financial analytics & historical stock trends for 20 companies integrating PySpark, Docker, and Azure Delta Lake
