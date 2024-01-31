@@ -1,5 +1,5 @@
 # The Docker image that will be used to build your app
-image: "getzola/zola:latest"
+image: getzola/zola:0.14.0
 # Functions that should be executed before the build script is run
 pages:
   script:
