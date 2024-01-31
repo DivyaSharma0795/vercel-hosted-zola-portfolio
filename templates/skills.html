@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero is-link">
+	<div class="hero-body">
+		<div class="container has-text-centered">
+			<h1 class="title">
+				{{ section.title }}
+			</h1>
+		</div>
+	</div>
+</section>
+<br><br>
+
+<div class="columns">
+	<div class="column is-centered has-text-centered">
+		<h1 class="subtitle is-size-3"> Languages and Tools <h1>
+	</div>
+</div>
+
+{% for index in section.extra.lan %}
+	{% if loop.index % 2 == 1 %}
+		<div class="columns">
+	{% endif %}
+		<div class="column is-6">
+			<div class="card">
+				<div class="card-content">
+					<div class="columns is-vcentered">
+						<div class="column has-text-centered">
+							<a class="" href="{{ index.link }}">
+								<strong>{{ index.lang }}</strong>
+							</a>
+						</div>
+						<div class="column">
+							<progress class="progress is-link" value={{index.expr}} max="5"></prorgess>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	{% if loop.index % 2 == 0 %}
+		</div>
+	{% endif %}
+	{% if loop.last %}
+		{% if loop.index % 2 == 1 %}
+			</div>
+			{% endif %}
+	{% endif %}
+{% endfor %}
+
+<div class="columns">
+	<div class="column is-centered has-text-centered">
+		<h1 class="subtitle is-size-3"> Machine Learning and Cloud <h1>
+	</div>
+</div>
+
+{% for index in section.extra.tools %}
+	{% if loop.index % 2 == 1 %}
+		<div class="columns">
+	{% endif %}
+		<div class="column is-6">
+			<div class="card">
+				<div class="card-content">
+					<div class="columns is-vcentered">
+						<div class="column has-text-centered">
+							<a class="" href="{{ index.link }}">
+								<strong>{{ index.tool }}</strong>
+							</a>
+						</div>
+						<div class="column">
+							<progress class="progress is-link" value={{index.expr}} max="5"></prorgess>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    {% if loop.index % 2 == 0 %}
+		</div>
+	{% endif %}
+	{% if loop.last %}
+		{% if loop.index % 2 == 1 %}
+			</div>
+			{% endif %}
+	{% endif %}
+
+{% endfor %}
+
+<div class="columns">
+	<div class="column is-centered has-text-centered">
+		<h1 class="subtitle is-size-3"> Professional Skills <h1>
+	</div>
+</div>
+
+{% for index in section.extra.proff %}
+	{% if loop.index % 2 == 1 %}
+		<div class="columns">
+	{% endif %}
+		<div class="column is-6">
+			<div class="card">
+				<div class="card-content">
+					<div class="columns is-vcentered">
+						<div class="column has-text-centered">
+							<a class="" href="{{ index.link }}">
+								<strong>{{ index.tool }}</strong>
+							</a>
+						</div>
+						<div class="column">
+							<progress class="progress is-link" value={{index.expr}} max="5"></prorgess>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    {% if loop.index % 2 == 0 %}
+		</div>
+	{% endif %}
+	{% if loop.last %}
+		{% if loop.index % 2 == 1 %}
+			</div>
+			{% endif %}
+	{% endif %}
+
+{% endfor %}
+
+
+
+{% endblock content %}
