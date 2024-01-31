@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: http://divyasharma0795/gitlab.io/MP01/sitemap.xml
