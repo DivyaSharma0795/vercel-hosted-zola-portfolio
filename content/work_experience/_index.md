@@ -6,6 +6,6 @@ author = "Divya"
 
 +++
 
-# My Projects
+# My Industry Experience
 
 Here are some of my projects...

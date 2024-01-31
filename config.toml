@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://127.0.0.1/1111/"
+base_url = "http://divyasharma0795/gitlab.io/MP01/"
 title = "Hephaestus Theme"
 theme = "hephaestus"
 # Whether to do syntax highlighting
@@ -18,7 +18,7 @@ menu = [
 { text = "Home", link = "/" },
 { text = "About", link = "/about/" },
 { text = "Education", link = "/education" },
-{ text = "Skills", link = "http://127.0.0.1/1111/skills/" },
+{ text = "Skills", link = "/skills/" },
 { text = "Projects", link = "/projects/"},
 { text = "Work Experience", link = "/work_experience/"}
 ]
