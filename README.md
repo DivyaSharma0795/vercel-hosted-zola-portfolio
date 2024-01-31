@@ -11,7 +11,30 @@ On some READMEs, you may see small images that convey metadata, such as whether 
 ## Visuals
 
 -   Starting Page
-![1](static\Screenshot 2024-01-31 at 02-15-14 Divya Sharma Profile.png)
+
+![1](<Screenshot 2024-01-31 at 02-15-14 Divya Sharma Profile.png>)
+
+-   About me
+
+![2](<Screenshot 2024-01-31 at 02-15-41 Divya Sharma Profile.png>)
+
+-   Education
+
+![3](<Screenshot 2024-01-31 at 02-17-13 Divya Sharma Profile.png>)
+
+-   Skills
+
+![4](<Screenshot 2024-01-31 at 02-17-13 Divya Sharma Profile-1.png>)
+
+-   Projects
+
+![5](<Screenshot 2024-01-31 at 02-18-28 Divya Sharma Profile.png>)
+
+-   Work Experience
+
+![6](<Screenshot 2024-01-31 at 02-18-57 Divya Sharma Profile.png>)
+
+
 
 ## Installation
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
