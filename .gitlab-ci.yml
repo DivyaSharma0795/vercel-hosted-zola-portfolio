@@ -1,5 +1,5 @@
 # The Docker image that will be used to build your app
-image: registry.gitlab.com/zola/zola:latest
+image: "getzola/zola:latest"
 # Functions that should be executed before the build script is run
 pages:
   script:
