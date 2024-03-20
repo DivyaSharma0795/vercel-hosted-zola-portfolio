@@ -12,7 +12,7 @@ Creating a static website using [Zola](https://www.getzola.org/) - the theme use
 
 -   Starting Page
 
-![1](<Screenshot 2024-01-31 at 02-15-14 Divya Sharma Profile.png>)
+![1](<".\Images\Screenshot 2024-01-31 at 02-15-14 Divya Sharma Profile.png">)
 
 -   About me
 
