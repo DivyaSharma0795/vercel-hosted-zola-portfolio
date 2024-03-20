@@ -1,4 +1,4 @@
-# IDS721 Individual Project 01 - Static Website using Zola hosted on Vercel, Netlify, AWS Amplify, AWS S3, or others.
+# IDS721 Individual Project 01 - Static Website using Zola hosted on Vercel
 
 ![Job Status](https://gitlab.com/divyasharma0795/ds655_ids721_miniproject01/badges/main/pipeline.svg)
 
