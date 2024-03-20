@@ -2,10 +2,20 @@
 
 ![Job Status](https://gitlab.com/divyasharma0795/ds655_ids721_miniproject01/badges/main/pipeline.svg)
 
-Please access the static website at the [Project Website](https://ids721-miniproject01-divyasharma0795-a094ba4b748189a3597541e8c4.gitlab.io/)
+Vercel Website Link: [https://divyasharma.vercel.app/](https://divyasharma.vercel.app/)
+
+The static Zola website can be found at the [Project Website](https://ids721-miniproject01-divyasharma0795-a094ba4b748189a3597541e8c4.gitlab.io/)
+
+Video Dem0: [Link]()
 
 ## Description
 Creating a static website using [Zola](https://www.getzola.org/) - the theme used for this project is [hephaestus](https://www.getzola.org/themes/hephaestus/). The website serves as my personal profile, showcasing basic information, education, work experience, skills, and projects.
+
+The website is hosted on [Vercel](https://vercel.com), a cloud platform for static sites and Serverless Functions. Vercel provides continuous deployment (CD), where every push to the main branch triggers a new deployment of the site. The build command `zola build` is used to build the site, and the output directory is set to `public`, where Zola generates the site files.
+
+Vercel is integrated with GitLab, and the site is automatically built and deployed whenever changes are pushed to the GitLab repository. This integration provides a seamless workflow for continuous integration (CI) and continuous deployment (CD).
+
+
 
 
 ## Visuals
@@ -59,6 +69,13 @@ zola serve
 6. Add or modify content in the `content` directory to reflect your profile details
 
 7. Customize the theme and styles as needed. Explore the [Hephaestus theme documentation](https://www.getzola.org/themes/hephaestus/) for customization options and theme-specific features.
+
+8. Connecting to Vercel
+   - Create an account on [Vercel](https://vercel.com)
+   - Install the Vercel CLI by running `npm install -g vercel`
+   - Run `vercel login` to log in to your Vercel account
+   - Run `vercel` to deploy the site to Vercel
+ 
 
 
 ## Authors and acknowledgment
