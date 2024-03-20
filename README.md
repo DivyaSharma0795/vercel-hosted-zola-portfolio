@@ -12,27 +12,27 @@ Creating a static website using [Zola](https://www.getzola.org/) - the theme use
 
 -   Starting Page
 
-![1](<"./Images/Screenshot 2024-01-31 at 02-15-14 Divya Sharma Profile.png">)
+![1](<Images/Screenshot%202024-01-31%20at%2002-15-14%20Divya%20Sharma%20Profile.png>)
 
 -   About me
 
-![2](<Screenshot 2024-01-31 at 02-15-41 Divya Sharma Profile.png>)
+![2](<Images/Screenshot%202024-01-31%20at%2002-15-41%20Divya%20Sharma%20Profile.png>)
 
 -   Education
 
-![3](<Screenshot 2024-01-31 at 02-17-13 Divya Sharma Profile.png>)
+![3](<Images/Screenshot%202024-01-31%20at%2002-17-13%20Divya%20Sharma%20Profile.png>)
 
 -   Skills
 
-![4](<Screenshot 2024-01-31 at 02-18-08 Divya Sharma Profile.png>)
+![4](<Images/Screenshot%202024-01-31%20at%2002-18-08%20Divya%20Sharma%20Profile.png>)
 
 -   Projects
 
-![5](<Screenshot 2024-01-31 at 02-18-28 Divya Sharma Profile.png>)
+![5](<Images/Screenshot%202024-01-31%20at%2002-18-28%20Divya%20Sharma%20Profile.png>)
 
 -   Work Experience
 
-![6](<Screenshot 2024-01-31 at 02-18-57 Divya Sharma Profile.png>)
+![6](<Images/Screenshot%202024-01-31%20at%2002-18-57%20Divya%20Sharma%20Profile.png>)
 
 
 ## Installation
