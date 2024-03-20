@@ -6,7 +6,7 @@ Vercel Website Link: [https://divyasharma.vercel.app/](https://divyasharma.verce
 
 The static Zola website can be found at the [Project Website](https://ids721-miniproject01-divyasharma0795-a094ba4b748189a3597541e8c4.gitlab.io/)
 
-Video Dem0: [Link]()
+Video Demo: [Link](https://streamable.com/07279i)
 
 ## Description
 Creating a static website using [Zola](https://www.getzola.org/) - the theme used for this project is [hephaestus](https://www.getzola.org/themes/hephaestus/). The website serves as my personal profile, showcasing basic information, education, work experience, skills, and projects.
